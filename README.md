@@ -28,7 +28,7 @@ No additional packages are required.
 ## Running the App
 
 ```bash
-python minimax.py
+python app.py
 ```
 
 The window launches maximized and is ready to use immediately.
